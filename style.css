@@ -10,12 +10,11 @@ body {
 h1 {
     background-image: url("wall7.jpg");
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-position: center;
     font-family: "Impact";
     color: rgb(172, 0, 0);
     font-size: 68px;
-    width: 1228px;
+    width: 1500px;
     height: 480px;
     text-align: center;
   }
