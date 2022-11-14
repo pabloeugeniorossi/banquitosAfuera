@@ -7,7 +7,7 @@ body {
    position: center;
 }
 
-#userOnly {
+.userOnly {
    visibility: hidden;
 }
 
