@@ -2,6 +2,15 @@ body {
    background-color:black;
    color: white
 }
+
+#banquitosAfuera {
+   position: center;
+}
+
+#userOnly {
+   visibility: hidden;
+}
+
 h1 {
     background-image: url("wall7.jpg");
     font-family: "Impact";
